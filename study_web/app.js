@@ -621,6 +621,7 @@
   function finishSession() {
     clearTimer();
     state.running = false;
+    document.body.classList.remove('is-running');
     ui.startBtn.disabled = false;
     ui.setupCard.classList.remove('hidden');
     ui.homePanel.classList.remove('hidden');
@@ -737,6 +738,7 @@
     state.records = [];
     state.idx = 0;
     state.running = true;
+    document.body.classList.add('is-running');
     if (!state.queue.length) {
       alert(label || 'Tidak ada soal untuk sprint ini.');
       return;
@@ -773,6 +775,7 @@
       state.records = Array.isArray(snapshot.records) ? snapshot.records : [];
       state.idx = Math.max(0, Math.min(Number(snapshot.idx || 0), queue.length - 1));
       state.running = true;
+      document.body.classList.add('is-running');
       setControlsDisabled(true);
       ui.startBtn.disabled = true;
       ui.setupCard.classList.add('hidden');
