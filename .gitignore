@@ -1,0 +1,39 @@
+# Local source PDFs and generated exports
+*.pdf
+*.pages.txt
+*.md.tmp
+
+# Local screenshots / Playwright artifacts
+*.png
+!study_web/assets/**/*.png
+!.github/**/*.png
+.playwright-mcp/
+study_web/debug_*.png
+study_web/headless_*.png
+study_web/*playwright*.png
+study_web/audit_day1_pages/
+study_web/.tmp_crops/
+study_web/assets/page_renders/
+study_web/assets/preview/
+study_web/assets/hero-editorial.png
+study_web/scripts/
+
+# Local build / scratch folders
+build/
+/assets/
+/scripts/
+reconstruction_output/
+video_recon/
+xmcp/
+info a1/
+.codex_tmp_jsdom/
+
+# Unrelated local notes from other exports
+MMI_corrected_questions.md
+materi.md
+mmi_cheatsheet_audit.md
+
+# Dependencies and OS files
+node_modules/
+.DS_Store
+Thumbs.db

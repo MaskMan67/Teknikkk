@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>PK Sprint 60 Detik</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600;700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css?v=layout-fix2" />
+</head>
+<body>
+  <div class="ambient-grid" aria-hidden="true"></div>
+
+  <main class="app-shell">
+    <nav class="topbar" aria-label="Navigasi utama">
+      <a class="brand-mark" href="#top" aria-label="PK Sprint 60 Detik">
+        <span class="brand-icon">PK</span>
+        <span>PK Sprint 60 Detik</span>
+        <small>Mode latihan</small>
+      </a>
+
+      <div class="top-actions">
+        <span class="mode-pill">A-D aktif. Opsi otomatis diberi label.</span>
+        <button id="restart-btn" class="btn btn-outline" disabled>Ulangi Sprint</button>
+        <button id="start-btn" class="btn btn-primary">Mulai Sprint</button>
+      </div>
+    </nav>
+
+    <section id="setup-card" class="setup-card" aria-label="Pengaturan sesi">
+      <div>
+        <p class="eyebrow">Latihan PK UTBK 2025</p>
+        <h1>Sprint cepat, satu soal per menit.</h1>
+      </div>
+
+      <div class="setup-controls">
+        <label>
+          Paket soal
+          <select id="day-filter"></select>
+        </label>
+
+        <label>
+          Urutan
+          <select id="order-filter">
+            <option value="sequential">Berurutan</option>
+            <option value="random">Acak</option>
+          </select>
+        </label>
+
+        <label>
+          Durasi
+          <input id="time-limit" type="number" min="30" max="120" step="5" value="60" />
+        </label>
+      </div>
+
+      <p id="pack-summary" class="control-note"></p>
+      <p id="history-note" class="control-note muted-note"></p>
+    </section>
+
+    <section id="home-panel" class="home-panel" aria-label="Status latihan">
+      <article>
+        <span>01</span>
+        <h3>Mode yang aktif</h3>
+        <p>Website berjalan sebagai sprint latihan. Semua soal tetap punya A-D; jika opsi tidak berasal dari PDF, label otomatis akan tampil jelas.</p>
+      </article>
+      <article>
+        <span>02</span>
+        <h3>Day 2 siap dipakai</h3>
+        <p>Day 2 sudah dinormalisasi dari halaman 14-20, lengkap dengan kunci dan catatan hitung. Konflik sumber ditandai sebagai source issue.</p>
+      </article>
+      <article>
+        <span>03</span>
+        <h3>Review setelah selesai</h3>
+        <p>Ringkasan akhir menampilkan benar, salah, skip, timeout, akurasi, rata-rata, dan daftar soal salah untuk diulang.</p>
+      </article>
+    </section>
+
+    <section id="session-panel" class="session-panel hidden" aria-live="polite">
+      <aside class="hud-card">
+        <p class="panel-title">Waktu Tersisa</p>
+
+        <div class="timer-wrap">
+          <svg viewBox="0 0 120 120" class="timer-ring" aria-hidden="true">
+            <circle class="timer-track" cx="60" cy="60" r="52"></circle>
+            <circle id="timer-progress" class="timer-progress" cx="60" cy="60" r="52"></circle>
+          </svg>
+          <p id="timer-label" class="timer-label">60</p>
+          <small>detik</small>
+        </div>
+
+        <div class="progress-mini">
+          <span>Soal</span>
+          <strong id="stat-progress">0 / 0</strong>
+          <i><b id="hud-progress-bar"></b></i>
+        </div>
+
+        <div class="stats-grid">
+          <p><span>OT</span><strong id="stat-ontime">0</strong><small>On-time</small></p>
+          <p><span>TO</span><strong id="stat-timeout">0</strong><small>Timeout</small></p>
+          <p><span>OK</span><strong id="stat-accuracy">-</strong><small>Akurasi</small></p>
+          <p><span>RT</span><strong id="stat-avg">0.0s</strong><small>Rata-rata</small></p>
+        </div>
+
+        <div class="hud-actions">
+          <button id="done-btn" class="btn btn-primary">Sudah Jawab</button>
+          <button id="next-btn" class="btn btn-outline hidden">Lanjut sekarang</button>
+          <button id="skip-btn" class="btn btn-ghost">Lewati Soal</button>
+        </div>
+
+        <div class="tips-card">
+          <strong>Tips Fokus</strong>
+          <p>Kerjakan cepat, tetapi tetap cek informasi yang menentukan jawaban.</p>
+        </div>
+      </aside>
+
+      <article class="question-stage">
+        <div class="question-progress">
+          <span><b id="question-progress-bar"></b></span>
+          <strong id="question-progress-text">0 dari 0</strong>
+        </div>
+
+        <div class="question-head">
+          <div>
+            <span id="question-badge" class="question-badge">Day 1</span>
+            <h2 id="question-title">Soal 1</h2>
+            <p id="question-subtitle">Sumber halaman PDF - target 60 detik</p>
+          </div>
+
+          <div class="meta-pills">
+            <span>Penalaran Matematika</span>
+            <span class="is-medium">Medium</span>
+          </div>
+        </div>
+
+        <div class="question-divider"></div>
+
+        <div class="question-layout">
+          <div class="question-copy">
+            <div id="question-text" class="question-text"></div>
+            <div id="question-options" class="option-list" hidden></div>
+          </div>
+
+          <div class="media-shell">
+            <button id="media-toggle" class="media-toggle hidden" type="button">Lihat gambar soal</button>
+            <div id="question-media" class="question-media" hidden></div>
+          </div>
+        </div>
+
+        <div id="question-hint" class="hint-card">Pilih opsi, lalu tekan Sudah Jawab.</div>
+
+        <div class="question-footer">
+          <p><span>60</span><strong>Target waktu</strong><small>detik</small></p>
+          <p><span>20</span><strong>Target Harian</strong><small>soal</small></p>
+          <p><span>A-D</span><strong>Mode</strong><small>Opsi latihan aktif.</small></p>
+        </div>
+      </article>
+    </section>
+
+    <section id="summary-panel" class="summary-panel hidden">
+      <h3>Ringkasan Sprint</h3>
+      <p id="summary-text"></p>
+      <div id="summary-metrics" class="summary-metrics"></div>
+      <div id="review-panel" class="review-panel hidden">
+        <div class="review-head">
+          <h4>Review Soal Salah</h4>
+          <button id="retry-wrong-btn" class="btn btn-outline" type="button">Ulangi soal salah</button>
+        </div>
+        <div id="review-list" class="review-list"></div>
+      </div>
+    </section>
+
+    <section id="answer-panel" class="answer-panel hidden" aria-live="polite">
+      <div class="answer-panel-head">
+        <div>
+          <p class="answer-eyebrow">Setelah Sesi</p>
+          <h3>Kunci Jawaban</h3>
+        </div>
+        <p id="answer-summary" class="answer-summary"></p>
+      </div>
+      <div id="answer-list" class="answer-list"></div>
+    </section>
+  </main>
+
+  <script src="data/questions.js?v=layout-fix2"></script>
+  <script src="data/answer_keys.js?v=layout-fix2"></script>
+  <script src="app.js?v=layout-fix2"></script>
+</body>
+</html>
