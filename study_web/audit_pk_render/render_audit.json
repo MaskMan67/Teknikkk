@@ -1,0 +1,2115 @@
+[
+  {
+    "title": "Soal 1",
+    "subtitle": "Sumber halaman 8 PDF - target 120 detik",
+    "promptChars": 41,
+    "optionCount": 0,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q01.png?v=D01Q01-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 95,
+        "renderedWidth": 537,
+        "renderedHeight": 42
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 1,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q01.png"
+  },
+  {
+    "title": "Soal 2",
+    "subtitle": "Sumber halaman 8 PDF - target 120 detik",
+    "promptChars": 86,
+    "optionCount": 0,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q02.png?v=D01Q02-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 135,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 2,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q02.png"
+  },
+  {
+    "title": "Soal 3",
+    "subtitle": "Sumber halaman 8 PDF - target 120 detik",
+    "promptChars": 234,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q03.png?v=D01Q03-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 210,
+        "renderedWidth": 537,
+        "renderedHeight": 92
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 3,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q03.png"
+  },
+  {
+    "title": "Soal 4",
+    "subtitle": "Sumber halaman 8 PDF - target 120 detik",
+    "promptChars": 53,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q04.png?v=D01Q04-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 713,
+        "renderedWidth": 537,
+        "renderedHeight": 313
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 4,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q04.png"
+  },
+  {
+    "title": "Soal 5",
+    "subtitle": "Sumber halaman 8 PDF - target 120 detik",
+    "promptChars": 177,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q05.png?v=D01Q05-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 693,
+        "renderedWidth": 537,
+        "renderedHeight": 304
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 5,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q05.png"
+  },
+  {
+    "title": "Soal 6",
+    "subtitle": "Sumber halaman 9 PDF - target 120 detik",
+    "promptChars": 40,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q06.png?v=D01Q06-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 125,
+        "renderedWidth": 537,
+        "renderedHeight": 55
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 6,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q06.png"
+  },
+  {
+    "title": "Soal 7",
+    "subtitle": "Sumber halaman 9 PDF - target 120 detik",
+    "promptChars": 36,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q07.png?v=D01Q07-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 125,
+        "renderedWidth": 537,
+        "renderedHeight": 55
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 7,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q07.png"
+  },
+  {
+    "title": "Soal 8",
+    "subtitle": "Sumber halaman 9 PDF - target 120 detik",
+    "promptChars": 84,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q08.png?v=D01Q08-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 295,
+        "renderedWidth": 537,
+        "renderedHeight": 129
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 8,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q08.png"
+  },
+  {
+    "title": "Soal 9",
+    "subtitle": "Sumber halaman 9 PDF - target 120 detik",
+    "promptChars": 53,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q09.png?v=D01Q09-0",
+        "complete": true,
+        "naturalWidth": 1205,
+        "naturalHeight": 544,
+        "renderedWidth": 537,
+        "renderedHeight": 243
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 9,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q09.png"
+  },
+  {
+    "title": "Soal 10",
+    "subtitle": "Sumber halaman 9 PDF - target 120 detik",
+    "promptChars": 46,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q10.png?v=D01Q10-0",
+        "complete": true,
+        "naturalWidth": 1205,
+        "naturalHeight": 548,
+        "renderedWidth": 537,
+        "renderedHeight": 244
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 10,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q10.png"
+  },
+  {
+    "title": "Soal 11",
+    "subtitle": "Sumber halaman 9 PDF - target 120 detik",
+    "promptChars": 43,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q11.png?v=D01Q11-0",
+        "complete": true,
+        "naturalWidth": 1205,
+        "naturalHeight": 611,
+        "renderedWidth": 537,
+        "renderedHeight": 273
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 11,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q11.png"
+  },
+  {
+    "title": "Soal 12",
+    "subtitle": "Sumber halaman 10 PDF - target 120 detik",
+    "promptChars": 136,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q12.png?v=D01Q12-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 595,
+        "renderedWidth": 537,
+        "renderedHeight": 261
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 12,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q12.png"
+  },
+  {
+    "title": "Soal 13",
+    "subtitle": "Sumber halaman 10 PDF - target 120 detik",
+    "promptChars": 188,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q13.png?v=D01Q13-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 780,
+        "renderedWidth": 537,
+        "renderedHeight": 342
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 13,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q13.png"
+  },
+  {
+    "title": "Soal 14",
+    "subtitle": "Sumber halaman 10-11 PDF - target 120 detik",
+    "promptChars": 170,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q14.png?v=D01Q14-0",
+        "complete": true,
+        "naturalWidth": 1205,
+        "naturalHeight": 713,
+        "renderedWidth": 537,
+        "renderedHeight": 318
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 14,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q14.png"
+  },
+  {
+    "title": "Soal 15",
+    "subtitle": "Sumber halaman 11 PDF - target 120 detik",
+    "promptChars": 308,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q15.png?v=D01Q15-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 733,
+        "renderedWidth": 537,
+        "renderedHeight": 322
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 15,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q15.png"
+  },
+  {
+    "title": "Soal 16",
+    "subtitle": "Sumber halaman 11 PDF - target 120 detik",
+    "promptChars": 315,
+    "optionCount": 0,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q16.png?v=D01Q16-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 938,
+        "renderedWidth": 537,
+        "renderedHeight": 412
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 16,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q16.png"
+  },
+  {
+    "title": "Soal 17",
+    "subtitle": "Sumber halaman 12 PDF - target 120 detik",
+    "promptChars": 273,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q17.png?v=D01Q17-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 938,
+        "renderedWidth": 537,
+        "renderedHeight": 412
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 17,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q17.png"
+  },
+  {
+    "title": "Soal 18",
+    "subtitle": "Sumber halaman 12 PDF - target 120 detik",
+    "promptChars": 186,
+    "optionCount": 0,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q18.png?v=D01Q18-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 180,
+        "renderedWidth": 537,
+        "renderedHeight": 79
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 18,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q18.png"
+  },
+  {
+    "title": "Soal 19",
+    "subtitle": "Sumber halaman 12-13 PDF - target 120 detik",
+    "promptChars": 187,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q19.png?v=D01Q19-0",
+        "complete": true,
+        "naturalWidth": 1205,
+        "naturalHeight": 726,
+        "renderedWidth": 537,
+        "renderedHeight": 324
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 19,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q19.png"
+  },
+  {
+    "title": "Soal 20",
+    "subtitle": "Sumber halaman 13 PDF - target 120 detik",
+    "promptChars": 312,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day01_q20.png?v=D01Q20-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1450,
+        "renderedWidth": 537,
+        "renderedHeight": 636
+      }
+    ],
+    "clipped": [],
+    "day": 1,
+    "number": 20,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day01\\q20.png"
+  },
+  {
+    "title": "Soal 1",
+    "subtitle": "Sumber halaman 14 PDF - target 120 detik",
+    "promptChars": 45,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q01.png?v=D02Q01-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 103,
+        "renderedWidth": 537,
+        "renderedHeight": 45
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 1,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q01.png"
+  },
+  {
+    "title": "Soal 2",
+    "subtitle": "Sumber halaman 14 PDF - target 120 detik",
+    "promptChars": 84,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q02.png?v=D02Q02-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 108,
+        "renderedWidth": 537,
+        "renderedHeight": 47
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 2,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q02.png"
+  },
+  {
+    "title": "Soal 3",
+    "subtitle": "Sumber halaman 14 PDF - target 120 detik",
+    "promptChars": 232,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q03.png?v=D02Q03-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 819,
+        "renderedWidth": 537,
+        "renderedHeight": 359
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 3,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q03.png"
+  },
+  {
+    "title": "Soal 4",
+    "subtitle": "Sumber halaman 14 PDF - target 120 detik",
+    "promptChars": 60,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q04.png?v=D02Q04-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 135,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q04_fig.png?v=D02Q04-1",
+        "complete": true,
+        "naturalWidth": 588,
+        "naturalHeight": 576,
+        "renderedWidth": 537,
+        "renderedHeight": 526
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 4,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q04.png"
+  },
+  {
+    "title": "Soal 5",
+    "subtitle": "Sumber halaman 14 PDF - target 120 detik",
+    "promptChars": 181,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q05.png?v=D02Q05-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 703,
+        "renderedWidth": 537,
+        "renderedHeight": 308
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 5,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q05.png"
+  },
+  {
+    "title": "Soal 6",
+    "subtitle": "Sumber halaman 15 PDF - target 120 detik",
+    "promptChars": 203,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q06.png?v=D02Q06-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 134,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 6,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q06.png"
+  },
+  {
+    "title": "Soal 7",
+    "subtitle": "Sumber halaman 15 PDF - target 120 detik",
+    "promptChars": 199,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q07.png?v=D02Q07-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 135,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 7,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q07.png"
+  },
+  {
+    "title": "Soal 8",
+    "subtitle": "Sumber halaman 15 PDF - target 120 detik",
+    "promptChars": 247,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q08.png?v=D02Q08-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1132,
+        "renderedWidth": 537,
+        "renderedHeight": 497
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 8,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q08.png"
+  },
+  {
+    "title": "Soal 9",
+    "subtitle": "Sumber halaman 15 PDF - target 120 detik",
+    "promptChars": 238,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q09.png?v=D02Q09-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 135,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q09_q11_fig.png?v=D02Q09-1",
+        "complete": true,
+        "naturalWidth": 875,
+        "naturalHeight": 513,
+        "renderedWidth": 537,
+        "renderedHeight": 315
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 9,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q09.png"
+  },
+  {
+    "title": "Soal 10",
+    "subtitle": "Sumber halaman 15 PDF - target 120 detik",
+    "promptChars": 245,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q10.png?v=D02Q10-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 199,
+        "renderedWidth": 537,
+        "renderedHeight": 87
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q09_q11_fig.png?v=D02Q10-1",
+        "complete": true,
+        "naturalWidth": 875,
+        "naturalHeight": 513,
+        "renderedWidth": 537,
+        "renderedHeight": 315
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 10,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q10.png"
+  },
+  {
+    "title": "Soal 11",
+    "subtitle": "Sumber halaman 15-16 PDF - target 120 detik",
+    "promptChars": 234,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q11.png?v=D02Q11-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 127,
+        "renderedWidth": 537,
+        "renderedHeight": 56
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q09_q11_fig.png?v=D02Q11-1",
+        "complete": true,
+        "naturalWidth": 875,
+        "naturalHeight": 513,
+        "renderedWidth": 537,
+        "renderedHeight": 315
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 11,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q11.png"
+  },
+  {
+    "title": "Soal 12",
+    "subtitle": "Sumber halaman 16 PDF - target 120 detik",
+    "promptChars": 135,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q12.png?v=D02Q12-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 637,
+        "renderedWidth": 537,
+        "renderedHeight": 279
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 12,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q12.png"
+  },
+  {
+    "title": "Soal 13",
+    "subtitle": "Sumber halaman 16 PDF - target 120 detik",
+    "promptChars": 182,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q13.png?v=D02Q13-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 808,
+        "renderedWidth": 537,
+        "renderedHeight": 354
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 13,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q13.png"
+  },
+  {
+    "title": "Soal 14",
+    "subtitle": "Sumber halaman 16-17 PDF - target 120 detik",
+    "promptChars": 168,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q14_part1.png?v=D02Q14-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 343,
+        "renderedWidth": 537,
+        "renderedHeight": 150
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q14_part2.png?v=D02Q14-1",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 464,
+        "renderedWidth": 537,
+        "renderedHeight": 204
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 14,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q14.png"
+  },
+  {
+    "title": "Soal 15",
+    "subtitle": "Sumber halaman 17 PDF - target 120 detik",
+    "promptChars": 377,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q15.png?v=D02Q15-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1439,
+        "renderedWidth": 537,
+        "renderedHeight": 631
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 15,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q15.png"
+  },
+  {
+    "title": "Soal 16",
+    "subtitle": "Sumber halaman 18 PDF - target 120 detik",
+    "promptChars": 286,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q16.png?v=D02Q16-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 952,
+        "renderedWidth": 537,
+        "renderedHeight": 418
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 16,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q16.png"
+  },
+  {
+    "title": "Soal 17",
+    "subtitle": "Sumber halaman 18-19 PDF - target 120 detik",
+    "promptChars": 278,
+    "optionCount": 4,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q17_part1.png?v=D02Q17-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 931,
+        "renderedWidth": 537,
+        "renderedHeight": 408
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q17_part2.png?v=D02Q17-1",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 116,
+        "renderedWidth": 537,
+        "renderedHeight": 51
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 17,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q17.png"
+  },
+  {
+    "title": "Soal 18",
+    "subtitle": "Sumber halaman 19 PDF - target 120 detik",
+    "promptChars": 203,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q18.png?v=D02Q18-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 181,
+        "renderedWidth": 537,
+        "renderedHeight": 79
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 18,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q18.png"
+  },
+  {
+    "title": "Soal 19",
+    "subtitle": "Sumber halaman 19 PDF - target 120 detik",
+    "promptChars": 241,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q19.png?v=D02Q19-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 885,
+        "renderedWidth": 537,
+        "renderedHeight": 388
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 19,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q19.png"
+  },
+  {
+    "title": "Soal 20",
+    "subtitle": "Sumber halaman 19-20 PDF - target 120 detik",
+    "promptChars": 317,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q20_part1.png?v=D02Q20-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 753,
+        "renderedWidth": 537,
+        "renderedHeight": 330
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day02_q20_part2.png?v=D02Q20-1",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1867,
+        "renderedWidth": 537,
+        "renderedHeight": 819
+      }
+    ],
+    "clipped": [],
+    "day": 2,
+    "number": 20,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day02\\q20.png"
+  },
+  {
+    "title": "Soal 1",
+    "subtitle": "Sumber halaman 21 PDF - target 120 detik",
+    "promptChars": 42,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q01.png?v=D03Q01-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 77,
+        "renderedWidth": 537,
+        "renderedHeight": 34
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 1,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q01.png"
+  },
+  {
+    "title": "Soal 2",
+    "subtitle": "Sumber halaman 21 PDF - target 120 detik",
+    "promptChars": 85,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q02.png?v=D03Q02-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 146,
+        "renderedWidth": 537,
+        "renderedHeight": 64
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 2,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q02.png"
+  },
+  {
+    "title": "Soal 3",
+    "subtitle": "Sumber halaman 21 PDF - target 120 detik",
+    "promptChars": 241,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q03.png?v=D03Q03-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 879,
+        "renderedWidth": 537,
+        "renderedHeight": 386
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 3,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q03.png"
+  },
+  {
+    "title": "Soal 4",
+    "subtitle": "Sumber halaman 21 PDF - target 120 detik",
+    "promptChars": 60,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q04.png?v=D03Q04-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 135,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q04_fig.png?v=D03Q04-1",
+        "complete": true,
+        "naturalWidth": 576,
+        "naturalHeight": 613,
+        "renderedWidth": 537,
+        "renderedHeight": 572
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 4,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q04.png"
+  },
+  {
+    "title": "Soal 5",
+    "subtitle": "Sumber halaman 21 PDF - target 120 detik",
+    "promptChars": 196,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q05.png?v=D03Q05-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 611,
+        "renderedWidth": 537,
+        "renderedHeight": 268
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 5,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q05.png"
+  },
+  {
+    "title": "Soal 6",
+    "subtitle": "Sumber halaman 22 PDF - target 120 detik",
+    "promptChars": 191,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q06.png?v=D03Q06-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 145,
+        "renderedWidth": 537,
+        "renderedHeight": 64
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 6,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q06.png"
+  },
+  {
+    "title": "Soal 7",
+    "subtitle": "Sumber halaman 22 PDF - target 120 detik",
+    "promptChars": 199,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q07.png?v=D03Q07-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 145,
+        "renderedWidth": 537,
+        "renderedHeight": 64
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 7,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q07.png"
+  },
+  {
+    "title": "Soal 8",
+    "subtitle": "Sumber halaman 22 PDF - target 120 detik",
+    "promptChars": 211,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q08.png?v=D03Q08-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1417,
+        "renderedWidth": 537,
+        "renderedHeight": 622
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 8,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q08.png"
+  },
+  {
+    "title": "Soal 9",
+    "subtitle": "Sumber halaman 22-23 PDF - target 120 detik",
+    "promptChars": 231,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q09.png?v=D03Q09-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 135,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q09_q11_fig.png?v=D03Q09-1",
+        "complete": true,
+        "naturalWidth": 738,
+        "naturalHeight": 700,
+        "renderedWidth": 537,
+        "renderedHeight": 510
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 9,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q09.png"
+  },
+  {
+    "title": "Soal 10",
+    "subtitle": "Sumber halaman 22-23 PDF - target 120 detik",
+    "promptChars": 224,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q10.png?v=D03Q10-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 134,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q09_q11_fig.png?v=D03Q10-1",
+        "complete": true,
+        "naturalWidth": 738,
+        "naturalHeight": 700,
+        "renderedWidth": 537,
+        "renderedHeight": 510
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 10,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q10.png"
+  },
+  {
+    "title": "Soal 11",
+    "subtitle": "Sumber halaman 22-23 PDF - target 120 detik",
+    "promptChars": 222,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q11.png?v=D03Q11-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 131,
+        "renderedWidth": 537,
+        "renderedHeight": 57
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q09_q11_fig.png?v=D03Q11-1",
+        "complete": true,
+        "naturalWidth": 738,
+        "naturalHeight": 700,
+        "renderedWidth": 537,
+        "renderedHeight": 510
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 11,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q11.png"
+  },
+  {
+    "title": "Soal 12",
+    "subtitle": "Sumber halaman 23 PDF - target 120 detik",
+    "promptChars": 133,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q12.png?v=D03Q12-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 707,
+        "renderedWidth": 537,
+        "renderedHeight": 310
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 12,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q12.png"
+  },
+  {
+    "title": "Soal 13",
+    "subtitle": "Sumber halaman 23-24 PDF - target 120 detik",
+    "promptChars": 158,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q13_part1.png?v=D03Q13-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 824,
+        "renderedWidth": 537,
+        "renderedHeight": 362
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q13_part2.png?v=D03Q13-1",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 98,
+        "renderedWidth": 537,
+        "renderedHeight": 43
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 13,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q13.png"
+  },
+  {
+    "title": "Soal 14",
+    "subtitle": "Sumber halaman 24 PDF - target 120 detik",
+    "promptChars": 175,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q14.png?v=D03Q14-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 768,
+        "renderedWidth": 537,
+        "renderedHeight": 337
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 14,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q14.png"
+  },
+  {
+    "title": "Soal 15",
+    "subtitle": "Sumber halaman 24 PDF - target 120 detik",
+    "promptChars": 301,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q15.png?v=D03Q15-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1053,
+        "renderedWidth": 537,
+        "renderedHeight": 462
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 15,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q15.png"
+  },
+  {
+    "title": "Soal 16",
+    "subtitle": "Sumber halaman 25 PDF - target 120 detik",
+    "promptChars": 291,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q16.png?v=D03Q16-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 955,
+        "renderedWidth": 537,
+        "renderedHeight": 419
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 16,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q16.png"
+  },
+  {
+    "title": "Soal 17",
+    "subtitle": "Sumber halaman 25 PDF - target 120 detik",
+    "promptChars": 269,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q17.png?v=D03Q17-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 928,
+        "renderedWidth": 537,
+        "renderedHeight": 407
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 17,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q17.png"
+  },
+  {
+    "title": "Soal 18",
+    "subtitle": "Sumber halaman 26 PDF - target 120 detik",
+    "promptChars": 174,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q18.png?v=D03Q18-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 232,
+        "renderedWidth": 537,
+        "renderedHeight": 102
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 18,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q18.png"
+  },
+  {
+    "title": "Soal 19",
+    "subtitle": "Sumber halaman 26 PDF - target 120 detik",
+    "promptChars": 217,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q19.png?v=D03Q19-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 885,
+        "renderedWidth": 537,
+        "renderedHeight": 388
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 19,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q19.png"
+  },
+  {
+    "title": "Soal 20",
+    "subtitle": "Sumber halaman 26-27 PDF - target 120 detik",
+    "promptChars": 190,
+    "optionCount": 7,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q20_part1.png?v=D03Q20-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 792,
+        "renderedWidth": 537,
+        "renderedHeight": 347
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day03_q20_part2.png?v=D03Q20-1",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1867,
+        "renderedWidth": 537,
+        "renderedHeight": 819
+      }
+    ],
+    "clipped": [],
+    "day": 3,
+    "number": 20,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day03\\q20.png"
+  },
+  {
+    "title": "Soal 1",
+    "subtitle": "Sumber halaman 28 PDF - target 120 detik",
+    "promptChars": 44,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q01.png?v=D04Q01-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 97,
+        "renderedWidth": 537,
+        "renderedHeight": 43
+      }
+    ],
+    "clipped": [],
+    "day": 4,
+    "number": 1,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day04\\q01.png"
+  },
+  {
+    "title": "Soal 2",
+    "subtitle": "Sumber halaman 28 PDF - target 120 detik",
+    "promptChars": 78,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q02.png?v=D04Q02-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 146,
+        "renderedWidth": 537,
+        "renderedHeight": 64
+      }
+    ],
+    "clipped": [],
+    "day": 4,
+    "number": 2,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day04\\q02.png"
+  },
+  {
+    "title": "Soal 3",
+    "subtitle": "Sumber halaman 28 PDF - target 120 detik",
+    "promptChars": 237,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q03.png?v=D04Q03-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 491,
+        "renderedWidth": 537,
+        "renderedHeight": 215
+      }
+    ],
+    "clipped": [],
+    "day": 4,
+    "number": 3,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day04\\q03.png"
+  },
+  {
+    "title": "Soal 4",
+    "subtitle": "Sumber halaman 28 PDF - target 120 detik",
+    "promptChars": 52,
+    "optionCount": 4,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q04.png?v=D04Q04-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 611,
+        "renderedWidth": 537,
+        "renderedHeight": 268
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q04_fig.png?v=D04Q04-1",
+        "complete": true,
+        "naturalWidth": 513,
+        "naturalHeight": 363,
+        "renderedWidth": 537,
+        "renderedHeight": 380
+      }
+    ],
+    "clipped": [],
+    "day": 4,
+    "number": 4,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day04\\q04.png"
+  },
+  {
+    "title": "Soal 5",
+    "subtitle": "Sumber halaman 28 PDF - target 120 detik",
+    "promptChars": 195,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q05.png?v=D04Q05-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 523,
+        "renderedWidth": 537,
+        "renderedHeight": 229
+      }
+    ],
+    "clipped": [],
+    "day": 4,
+    "number": 5,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day04\\q05.png"
+  },
+  {
+    "title": "Soal 6",
+    "subtitle": "Sumber halaman 29 PDF - target 120 detik",
+    "promptChars": 200,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q06.png?v=D04Q06-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 397,
+        "renderedWidth": 537,
+        "renderedHeight": 174
+      }
+    ],
+    "clipped": [],
+    "day": 4,
+    "number": 6,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day04\\q06.png"
+  },
+  {
+    "title": "Soal 7",
+    "subtitle": "Sumber halaman 29 PDF - target 120 detik",
+    "promptChars": 196,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q07.png?v=D04Q07-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 397,
+        "renderedWidth": 537,
+        "renderedHeight": 174
+      }
+    ],
+    "clipped": [],
+    "day": 4,
+    "number": 7,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day04\\q07.png"
+  },
+  {
+    "title": "Soal 8",
+    "subtitle": "Sumber halaman 29 PDF - target 120 detik",
+    "promptChars": 262,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day04_q08.png?v=D04Q08-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 902,
+        "renderedWidth": 537,
+        "renderedHeight": 396
+      }
+    ],
+    "clipped": [],
+    "day": 4,
+    "number": 8,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day04\\q08.png"
+  },
+  {
+    "title": "Soal 1",
+    "subtitle": "Sumber halaman 30 PDF - target 120 detik",
+    "promptChars": 41,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q01.png?v=D05Q01-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 81,
+        "renderedWidth": 537,
+        "renderedHeight": 36
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 1,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q01.png"
+  },
+  {
+    "title": "Soal 2",
+    "subtitle": "Sumber halaman 30 PDF - target 120 detik",
+    "promptChars": 89,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q02.png?v=D05Q02-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 169,
+        "renderedWidth": 537,
+        "renderedHeight": 74
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 2,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q02.png"
+  },
+  {
+    "title": "Soal 3",
+    "subtitle": "Sumber halaman 30 PDF - target 120 detik",
+    "promptChars": 227,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q03.png?v=D05Q03-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 990,
+        "renderedWidth": 537,
+        "renderedHeight": 434
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 3,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q03.png"
+  },
+  {
+    "title": "Soal 4",
+    "subtitle": "Sumber halaman 30 PDF - target 120 detik",
+    "promptChars": 59,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q04.png?v=D05Q04-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 133,
+        "renderedWidth": 537,
+        "renderedHeight": 58
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q04_fig.png?v=D05Q04-1",
+        "complete": true,
+        "naturalWidth": 525,
+        "naturalHeight": 501,
+        "renderedWidth": 537,
+        "renderedHeight": 513
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 4,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q04.png"
+  },
+  {
+    "title": "Soal 5",
+    "subtitle": "Sumber halaman 30 PDF - target 120 detik",
+    "promptChars": 184,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q05.png?v=D05Q05-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 484,
+        "renderedWidth": 537,
+        "renderedHeight": 212
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 5,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q05.png"
+  },
+  {
+    "title": "Soal 6",
+    "subtitle": "Sumber halaman 31 PDF - target 120 detik",
+    "promptChars": 193,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q06.png?v=D05Q06-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 134,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 6,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q06.png"
+  },
+  {
+    "title": "Soal 7",
+    "subtitle": "Sumber halaman 31 PDF - target 120 detik",
+    "promptChars": 201,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q07.png?v=D05Q07-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 135,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 7,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q07.png"
+  },
+  {
+    "title": "Soal 8",
+    "subtitle": "Sumber halaman 31 PDF - target 120 detik",
+    "promptChars": 265,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q08.png?v=D05Q08-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1207,
+        "renderedWidth": 537,
+        "renderedHeight": 530
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 8,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q08.png"
+  },
+  {
+    "title": "Soal 9",
+    "subtitle": "Sumber halaman 31 PDF - target 120 detik",
+    "promptChars": 239,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q09.png?v=D05Q09-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 243,
+        "renderedWidth": 537,
+        "renderedHeight": 107
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q09_q11_fig.png?v=D05Q09-1",
+        "complete": true,
+        "naturalWidth": 575,
+        "naturalHeight": 751,
+        "renderedWidth": 537,
+        "renderedHeight": 702
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 9,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q09.png"
+  },
+  {
+    "title": "Soal 10",
+    "subtitle": "Sumber halaman 31-32 PDF - target 120 detik",
+    "promptChars": 231,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q10.png?v=D05Q10-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 135,
+        "renderedWidth": 537,
+        "renderedHeight": 59
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q09_q11_fig.png?v=D05Q10-1",
+        "complete": true,
+        "naturalWidth": 575,
+        "naturalHeight": 751,
+        "renderedWidth": 537,
+        "renderedHeight": 702
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 10,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q10.png"
+  },
+  {
+    "title": "Soal 11",
+    "subtitle": "Sumber halaman 31-32 PDF - target 120 detik",
+    "promptChars": 232,
+    "optionCount": 5,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q11.png?v=D05Q11-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 124,
+        "renderedWidth": 537,
+        "renderedHeight": 54
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q09_q11_fig.png?v=D05Q11-1",
+        "complete": true,
+        "naturalWidth": 575,
+        "naturalHeight": 751,
+        "renderedWidth": 537,
+        "renderedHeight": 702
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 11,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q11.png"
+  },
+  {
+    "title": "Soal 12",
+    "subtitle": "Sumber halaman 32 PDF - target 120 detik",
+    "promptChars": 133,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q12.png?v=D05Q12-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 703,
+        "renderedWidth": 537,
+        "renderedHeight": 308
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 12,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q12.png"
+  },
+  {
+    "title": "Soal 13",
+    "subtitle": "Sumber halaman 32 PDF - target 120 detik",
+    "promptChars": 161,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q13.png?v=D05Q13-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 953,
+        "renderedWidth": 537,
+        "renderedHeight": 418
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 13,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q13.png"
+  },
+  {
+    "title": "Soal 14",
+    "subtitle": "Sumber halaman 33 PDF - target 120 detik",
+    "promptChars": 173,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q14.png?v=D05Q14-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 699,
+        "renderedWidth": 537,
+        "renderedHeight": 307
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 14,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q14.png"
+  },
+  {
+    "title": "Soal 15",
+    "subtitle": "Sumber halaman 33 PDF - target 120 detik",
+    "promptChars": 307,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q15.png?v=D05Q15-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 785,
+        "renderedWidth": 537,
+        "renderedHeight": 344
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 15,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q15.png"
+  },
+  {
+    "title": "Soal 16",
+    "subtitle": "Sumber halaman 33-34 PDF - target 120 detik",
+    "promptChars": 286,
+    "optionCount": 4,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q16_part1.png?v=D05Q16-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 425,
+        "renderedWidth": 537,
+        "renderedHeight": 186
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q16_part2.png?v=D05Q16-1",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 719,
+        "renderedWidth": 537,
+        "renderedHeight": 315
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 16,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q16.png"
+  },
+  {
+    "title": "Soal 17",
+    "subtitle": "Sumber halaman 34 PDF - target 120 detik",
+    "promptChars": 269,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q17.png?v=D05Q17-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 936,
+        "renderedWidth": 537,
+        "renderedHeight": 411
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 17,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q17.png"
+  },
+  {
+    "title": "Soal 18",
+    "subtitle": "Sumber halaman 34 PDF - target 120 detik",
+    "promptChars": 177,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q18.png?v=D05Q18-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 264,
+        "renderedWidth": 537,
+        "renderedHeight": 116
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 18,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q18.png"
+  },
+  {
+    "title": "Soal 19",
+    "subtitle": "Sumber halaman 35 PDF - target 120 detik",
+    "promptChars": 199,
+    "optionCount": 5,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q19.png?v=D05Q19-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 860,
+        "renderedWidth": 537,
+        "renderedHeight": 377
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 19,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q19.png"
+  },
+  {
+    "title": "Soal 20",
+    "subtitle": "Sumber halaman 35-36 PDF - target 120 detik",
+    "promptChars": 189,
+    "optionCount": 7,
+    "mediaCount": 2,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q20_part1.png?v=D05Q20-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1023,
+        "renderedWidth": 537,
+        "renderedHeight": 449
+      },
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q20_part2.png?v=D05Q20-1",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 311,
+        "renderedWidth": 537,
+        "renderedHeight": 136
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 20,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q20.png"
+  },
+  {
+    "title": "Soal 21",
+    "subtitle": "Sumber halaman 36 PDF - target 120 detik",
+    "promptChars": 37,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q21.png?v=D05Q21-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 97,
+        "renderedWidth": 537,
+        "renderedHeight": 43
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 21,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q21.png"
+  },
+  {
+    "title": "Soal 22",
+    "subtitle": "Sumber halaman 36 PDF - target 120 detik",
+    "promptChars": 255,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q22.png?v=D05Q22-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 299,
+        "renderedWidth": 537,
+        "renderedHeight": 131
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 22,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q22.png"
+  },
+  {
+    "title": "Soal 23",
+    "subtitle": "Sumber halaman 36 PDF - target 120 detik",
+    "promptChars": 201,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q23.png?v=D05Q23-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 88,
+        "renderedWidth": 537,
+        "renderedHeight": 39
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 23,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q23.png"
+  },
+  {
+    "title": "Soal 24",
+    "subtitle": "Sumber halaman 36 PDF - target 120 detik",
+    "promptChars": 200,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q24.png?v=D05Q24-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 87,
+        "renderedWidth": 537,
+        "renderedHeight": 38
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 24,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q24.png"
+  },
+  {
+    "title": "Soal 25",
+    "subtitle": "Sumber halaman 36 PDF - target 120 detik",
+    "promptChars": 273,
+    "optionCount": 4,
+    "mediaCount": 1,
+    "media": [
+      {
+        "src": "http://127.0.0.1:4173/assets/questions/day05_q25.png?v=D05Q25-0",
+        "complete": true,
+        "naturalWidth": 1225,
+        "naturalHeight": 1085,
+        "renderedWidth": 537,
+        "renderedHeight": 476
+      }
+    ],
+    "clipped": [],
+    "day": 5,
+    "number": 25,
+    "screenshot": "E:\\Teknikkk\\study_web\\audit_pk_render\\day05\\q25.png"
+  }
+]

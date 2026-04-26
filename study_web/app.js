@@ -4,21 +4,21 @@
   const packEntries = Object.entries(packs)
     .map(([day, pack]) => ({ day: Number(day), pack }))
     .filter(({ day, pack }) => Number.isFinite(day) && pack && Array.isArray(pack.questions))
-    .filter(({ pack }) => String(pack.title || '').toUpperCase().includes('PM'))
+    .filter(({ pack }) => String(pack.title || '').toUpperCase().includes('PK'))
     .sort((a, b) => a.day - b.day);
 
   if (!packEntries.length) {
     throw new Error('Data paket soal tidak ditemukan.');
   }
 
-  const HISTORY_KEY = 'pm-session-history-v1';
-  const ACTIVE_KEY = 'pm-active-session-v1';
-  const ACTIVE_VERSION = 'pm-day1-v1';
+  const HISTORY_KEY = 'pk-session-history-v1';
+  const ACTIVE_KEY = 'pk-active-session-v1';
+  const ACTIVE_VERSION = 'pk-pack-v2';
   const FEEDBACK_DELAY_MS = 2000;
   const CIRCLE = 2 * Math.PI * 52;
   const packMap = new Map(packEntries.map(({ day, pack }) => [day, pack]));
   const queryDay = Number(new URLSearchParams(location.search).get('day'));
-  const storedDay = Number(localStorage.getItem('pm-active-day'));
+  const storedDay = Number(localStorage.getItem('pk-active-day'));
   const initialDay = packMap.has(queryDay) ? queryDay : (packMap.has(storedDay) ? storedDay : packEntries[0].day);
 
   const ui = {
@@ -386,7 +386,7 @@
       return;
     }
     state.activeDay = nextDay;
-    localStorage.setItem('pm-active-day', String(nextDay));
+    localStorage.setItem('pk-active-day', String(nextDay));
     ui.dayFilter.value = String(nextDay);
     ui.timeLimit.value = String(getActivePack().timeLimitSec || 60);
     syncPackSummary();
