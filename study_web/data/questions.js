@@ -349,7 +349,7 @@ window.PK_PACKS = {
         "source_pages": [
           11
         ],
-        "prompt": "15. Persegi panjang PQRS merupakan persegi panjang dengan PQ = 6, QR = 12.\nDaerah persegi panjang PQRS memiliki keliling K1. Titik T terletak pada RS\nsehingga keliling daerah segitiga PQT adalah K2.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\nK2\nK1\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
+        "prompt": "15. Persegi panjang PQRS merupakan persegi panjang dengan PQ = 6, QR = 12. Daerah persegi panjang PQRS memiliki keliling K1. Titik T terletak pada RS sehingga keliling daerah segitiga PQT adalah K2.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = K2/K1\nQ = 1/2\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
         "image": "assets/questions/day01_q15.png",
         "images": [
           {
@@ -397,7 +397,7 @@ window.PK_PACKS = {
         "source_pages": [
           12
         ],
-        "prompt": "17. Sistem persamaan linear dalam a, b, dan c, yaitu\n\n3a −2c = 7,\n\n\n\n\n9a + b −6c = 8,\n\n\n3a + b −2c = −6.\n\n\nMempunyai solusi a = x, b = y, dan c = z.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\n2y −3x + 2z\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
+        "prompt": "17. Sistem persamaan linear dalam a, b, dan c, yaitu\n3a - 2c = 7\n9a + b - 6c = 8\n3a + b - 2c = -6\nmempunyai solusi a = x, b = y, dan c = z.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = 2y - 3x + 2z\nQ = 12\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
         "image": "assets/questions/day01_q17.png",
         "images": [
           {
@@ -894,7 +894,7 @@ window.PK_PACKS = {
         "source_pages": [
           17
         ],
-        "prompt": "15. Segitiga PQR merupakan segitiga sama sisi dengan panjang sisi 8. Daerah segiti-\nga PQR memiliki luas L1. Titik S dan T berturut-turut merupakan titik tengah\nsisi PQ dan QR. Titik U terletak di dalam daerah segitiga PQR sehingga luas\ndaerah segitiga STU adalah L2.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\nL2\nL1\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
+        "prompt": "15. Segitiga PQR merupakan segitiga sama sisi dengan panjang sisi 8. Daerah segitiga PQR memiliki luas L1. Titik S dan T berturut-turut merupakan titik tengah sisi PQ dan QR. Titik U terletak di dalam daerah segitiga PQR sehingga luas daerah segitiga STU adalah L2.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = L2/L1\nQ = 1/3\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
         "image": "assets/questions/day02_q15.png",
         "images": [
           {
@@ -918,7 +918,7 @@ window.PK_PACKS = {
         "source_pages": [
           18
         ],
-        "prompt": "16. Untuk setiap bilangan bulat m, n, a, b, t, dan u didefinisikan\n\n\nm\nu\nb\n\n= (m × t × b) −(b × u) −(m × u) + n\nn\nt\na\n\nDiketahui x merupakan suatu bilangan ganjil.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\n\n\nx\n\n\nx\n\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
+        "prompt": "16. Untuk setiap bilangan bulat m, n, a, b, t, dan u didefinisikan dengan notasi matriks pada gambar sumber.\nNilai ekspresi = (m × t × b) - (b × u) - (m × u) + n.\nDiketahui x merupakan suatu bilangan ganjil.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = nilai notasi pada tabel sumber\nQ = 4\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
         "image": "assets/questions/day02_q16.png",
         "images": [
           {
@@ -943,7 +943,7 @@ window.PK_PACKS = {
           18,
           19
         ],
-        "prompt": "17. Sistem persamaan linear dalam x, y, dan z, yaitu\n\n3y −4z = 7,\n\n\n\n\n2x −3y + 4z = 13,\n\n\nx + 6y −8z = 24.\n\n\nmempunyai solusi x = a, y = b dan z = c.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\n2a −9b + 12c\n−1\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
+        "prompt": "17. Sistem persamaan linear dalam x, y, dan z, yaitu\n3y - 4z = 7\n2x - 3y + 4z = 13\nx + 6y - 8z = 24\nmempunyai solusi x = a, y = b, dan z = c.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = 2a - 9b + 12c\nQ = -1\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
         "image": "assets/questions/day02_q17_part1.png",
         "images": [
           {
@@ -1464,7 +1464,7 @@ window.PK_PACKS = {
         "source_pages": [
           24
         ],
-        "prompt": "15. Segi empat EFGH merupakan persegi panjang dengan EF = 4 dan FG = 3.\nDaerah persegi panjang EFGH memiliki keliling K1. Titik A terletak pada sisi\nFG sehingga keliling daerah AEF adalah K2.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\nK1\nK2\n(a) Kuantitas P lebih dari Q\n(b) Kuantitas P kurang dari Q\n(c) Kuantitas P sama dengan Q\n(d) Tidak dapat ditentukan hubungan antara kuantitas P dan Q",
+        "prompt": "15. Segi empat EFGH merupakan persegi panjang dengan EF = 4 dan FG = 3. Daerah persegi panjang EFGH memiliki keliling K1. Titik A terletak pada sisi FG sehingga keliling daerah AEF adalah K2.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = K1/K2\nQ = 8/7\n(a) Kuantitas P lebih dari Q\n(b) Kuantitas P kurang dari Q\n(c) Kuantitas P sama dengan Q\n(d) Tidak dapat ditentukan hubungan antara kuantitas P dan Q",
         "image": "assets/questions/day03_q15.png",
         "images": [
           {
@@ -1488,7 +1488,7 @@ window.PK_PACKS = {
         "source_pages": [
           25
         ],
-        "prompt": "16. Untuk setiap bilangan bulat k, m, n, x, y, dan z didefinisikan\n≤\n\nk\nm\n\n= (k −z + y) × (m + n −x) .\nz\nn\ny\nx\nDiketahui e merupakan suatu bilangan genap positif.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\n∞k\n\nm\nz\nn\n\ny\nx\n(a) Kuantitas P lebih dari Q\n(b) Kuantitas P kurang dari Q\n(c) Kuantitas P sama dengan Q\n(d) Tidak dapat ditentukan hubungan antara kuantitas P dan Q",
+        "prompt": "16. Untuk setiap bilangan bulat k, m, n, x, y, dan z didefinisikan dengan notasi matriks pada gambar sumber.\nNilai ekspresi = (k - z + y) × (m + n - x).\nDiketahui e merupakan suatu bilangan genap positif.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = nilai notasi pada tabel sumber\nQ = 5\n(a) Kuantitas P lebih dari Q\n(b) Kuantitas P kurang dari Q\n(c) Kuantitas P sama dengan Q\n(d) Tidak dapat ditentukan hubungan antara kuantitas P dan Q",
         "image": "assets/questions/day03_q16.png",
         "images": [
           {
@@ -1512,7 +1512,7 @@ window.PK_PACKS = {
         "source_pages": [
           25
         ],
-        "prompt": "17. Sistem persamaan linear dalam u, v, dan w yaitu\n\nu −2v + w = 12\n\n\n\n\n2v −w = 4\n\n\nu + 6v −3w = 28\n\n\nmempunyai solusi u = a, v = b, dan w = c. Berdasarkan informasi yang diberik-\nan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP\nQ\na −4b + 2c\n(a) Kuantitas P lebih dari Q\n(b) Kuantitas P kurang dari Q\n(c) Kuantitas P sama dengan Q\n(d) Tidak dapat ditentukan hubungan antara kuantitas P dan Q",
+        "prompt": "17. Sistem persamaan linear dalam u, v, dan w yaitu\nu - 2v + w = 12\n2v - w = 4\nu + 6v - 3w = 28\nmempunyai solusi u = a, v = b, dan w = c.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = a - 4b + 2c\nQ = 6\n(a) Kuantitas P lebih dari Q\n(b) Kuantitas P kurang dari Q\n(c) Kuantitas P sama dengan Q\n(d) Tidak dapat ditentukan hubungan antara kuantitas P dan Q",
         "image": "assets/questions/day03_q17.png",
         "images": [
           {
@@ -2219,7 +2219,7 @@ window.PK_PACKS = {
         "source_pages": [
           33
         ],
-        "prompt": "15. Daerah lingkaran dengan pusat A dan jari-jari 9 memiliki luas L1. Titik B ter-\nletak di dalam daerah lingkaran tersebut sehingga luas daerah lingkaran dengan\npusat B dan jari-jari BA adalah L2.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\nL1\nL2\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
+        "prompt": "15. Daerah lingkaran dengan pusat A dan jari-jari 9 memiliki luas L1. Titik B terletak di dalam daerah lingkaran tersebut sehingga luas daerah lingkaran dengan pusat B dan jari-jari BA adalah L2.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = L1/L2\nQ = 1/2\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
         "image": "assets/questions/day05_q15.png",
         "images": [
           {
@@ -2244,7 +2244,7 @@ window.PK_PACKS = {
           33,
           34
         ],
-        "prompt": "16. Untuk setiap bilangan bulat f, g, h, i, j, dan k didefinisikan\n\n\ni\nj\n\n= ((f + g) × h) −(i −j) + k.\nf\nk\ng\nh\nDiketahui u merupakan suatu bilangan bulat negatif.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\n\n\nu\n\n\nu\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
+        "prompt": "16. Untuk setiap bilangan bulat f, g, h, i, j, dan k didefinisikan dengan notasi matriks pada gambar sumber.\nNilai ekspresi = ((f + g) × h) - (i - j) + k.\nDiketahui u merupakan suatu bilangan bulat negatif.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = nilai notasi pada tabel sumber\nQ = 7\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
         "image": "assets/questions/day05_q16_part1.png",
         "images": [
           {
@@ -2279,7 +2279,7 @@ window.PK_PACKS = {
         "source_pages": [
           34
         ],
-        "prompt": "17. Sistem persamaan linear x, y, dan z, yaitu\n\n6x + 2y + z =\n7,\n\n\n\n\n9x + 3y + z =\n9,\n\n\n3x + y =\n2,\n\n\nmempunyai solusi x = p, y = t, dan z = u.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P\ndan Q berikut yang benar?\nP\nQ\n12p + 4t −3u\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
+        "prompt": "17. Sistem persamaan linear x, y, dan z, yaitu\n6x + 2y + z = 7\n9x + 3y + z = 9\n3x + y = 2\nmempunyai solusi x = p, y = t, dan z = u.\nBerdasarkan informasi yang diberikan, manakah hubungan antara kuantitas P dan Q berikut yang benar?\nP = 12p + 4t - 3u\nQ = 0\n(a) Kuantitas P lebih dari Q.\n(b) Kuantitas P kurang dari Q.\n(c) Kuantitas P sama dengan Q.\n(d) Tidak dapat ditentukan hubungan antara Kuantitas P dan Q.",
         "image": "assets/questions/day05_q17.png",
         "images": [
           {

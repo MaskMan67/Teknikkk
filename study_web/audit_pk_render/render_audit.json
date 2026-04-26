@@ -3,7 +3,7 @@
     "title": "Soal 1",
     "subtitle": "Sumber halaman 8 PDF - target 120 detik",
     "promptChars": 41,
-    "optionCount": 0,
+    "optionCount": 4,
     "mediaCount": 1,
     "media": [
       {
@@ -24,7 +24,7 @@
     "title": "Soal 2",
     "subtitle": "Sumber halaman 8 PDF - target 120 detik",
     "promptChars": 86,
-    "optionCount": 0,
+    "optionCount": 4,
     "mediaCount": 1,
     "media": [
       {
@@ -296,7 +296,7 @@
   {
     "title": "Soal 15",
     "subtitle": "Sumber halaman 11 PDF - target 120 detik",
-    "promptChars": 308,
+    "promptChars": 316,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [
@@ -318,7 +318,7 @@
     "title": "Soal 16",
     "subtitle": "Sumber halaman 11 PDF - target 120 detik",
     "promptChars": 315,
-    "optionCount": 0,
+    "optionCount": 4,
     "mediaCount": 1,
     "media": [
       {
@@ -338,7 +338,7 @@
   {
     "title": "Soal 17",
     "subtitle": "Sumber halaman 12 PDF - target 120 detik",
-    "promptChars": 273,
+    "promptChars": 263,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [
@@ -360,7 +360,7 @@
     "title": "Soal 18",
     "subtitle": "Sumber halaman 12 PDF - target 120 detik",
     "promptChars": 186,
-    "optionCount": 0,
+    "optionCount": 4,
     "mediaCount": 1,
     "media": [
       {
@@ -756,7 +756,7 @@
   {
     "title": "Soal 15",
     "subtitle": "Sumber halaman 17 PDF - target 120 detik",
-    "promptChars": 377,
+    "promptChars": 383,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [
@@ -777,7 +777,7 @@
   {
     "title": "Soal 16",
     "subtitle": "Sumber halaman 18 PDF - target 120 detik",
-    "promptChars": 286,
+    "promptChars": 348,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [
@@ -798,7 +798,7 @@
   {
     "title": "Soal 17",
     "subtitle": "Sumber halaman 18-19 PDF - target 120 detik",
-    "promptChars": 278,
+    "promptChars": 266,
     "optionCount": 4,
     "mediaCount": 2,
     "media": [
@@ -1232,7 +1232,7 @@
   {
     "title": "Soal 15",
     "subtitle": "Sumber halaman 24 PDF - target 120 detik",
-    "promptChars": 301,
+    "promptChars": 309,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [
@@ -1253,7 +1253,7 @@
   {
     "title": "Soal 16",
     "subtitle": "Sumber halaman 25 PDF - target 120 detik",
-    "promptChars": 291,
+    "promptChars": 345,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [
@@ -1274,7 +1274,7 @@
   {
     "title": "Soal 17",
     "subtitle": "Sumber halaman 25 PDF - target 120 detik",
-    "promptChars": 269,
+    "promptChars": 259,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [
@@ -1868,7 +1868,7 @@
   {
     "title": "Soal 15",
     "subtitle": "Sumber halaman 33 PDF - target 120 detik",
-    "promptChars": 307,
+    "promptChars": 313,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [
@@ -1889,7 +1889,7 @@
   {
     "title": "Soal 16",
     "subtitle": "Sumber halaman 33-34 PDF - target 120 detik",
-    "promptChars": 286,
+    "promptChars": 347,
     "optionCount": 4,
     "mediaCount": 2,
     "media": [
@@ -1918,7 +1918,7 @@
   {
     "title": "Soal 17",
     "subtitle": "Sumber halaman 34 PDF - target 120 detik",
-    "promptChars": 269,
+    "promptChars": 255,
     "optionCount": 4,
     "mediaCount": 1,
     "media": [

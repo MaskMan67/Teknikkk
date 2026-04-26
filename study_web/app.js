@@ -266,7 +266,18 @@
 
     let candidates = [];
     const numeric = Number(correct.replace(',', '.'));
-    if (Number.isFinite(numeric) && /^-?\d+(\.\d+)?$/.test(correct)) {
+    const fraction = String(correct).match(/^(-?\d+)\/(\d+)$/);
+    if (fraction) {
+      const numerator = Number(fraction[1]);
+      const denominator = Number(fraction[2]);
+      candidates = [
+        correct,
+        `${numerator + 1}/${denominator}`,
+        `${numerator - 1}/${denominator}`,
+        `${numerator}/${denominator + 1}`,
+        String(Math.trunc(numerator / denominator)),
+      ];
+    } else if (Number.isFinite(numeric) && /^-?\d+(\.\d+)?$/.test(correct)) {
       const seed = Math.max(1, Math.abs(numeric));
       candidates = [correct, String(numeric + 1), String(numeric - 1), String(numeric + 2), String(seed * 2)];
     } else if (/^y\s*=|^x\s*=|=/.test(correct)) {
